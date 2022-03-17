@@ -1,5 +1,8 @@
 # 99Ace-api-mikar9
 
+To use the data set:
+
+Use the api link : https://m9-99ace-api.herokuapp.com
     DATASET
     {
         first_name : first_name,
@@ -8,25 +11,26 @@
     }
     
     // READ - ALL DATA
-    app.get('/m9User/read')
+    add the api link + /m9User/read
 
     // CREATE - NEW DATA
-    app.post('/m9User/create'
+    add the api link + /m9User/create
     
     // UPDATE - ONE DATA
-    app.put("/m9User/:id/update"
+    add the api link + /m9User/:id/update
 
     // DELETE - ONE DATA
-    app.delete("/m9User/:id/delete"
+    add the api link + /m9User/:id/delete
 
     // FIND ONE - ONE DATA
-    app.get('/m9User/:id/findone
+    add the api link + /m9User/:id/findone
 
     // SEARCH FOR FIRST_NAME
-    app.get('/m9User/search/:first_name/first_name'
+    add the api link + /m9User/search/:first_name/first_name
 
     // SEARCH FOR LAST_NAME
-    app.get('/m9User/search/:last_name/last_name'
+    add the api link + /m9User/search/:last_name/last_name
 
     // SEARCH FOR POSITION
-    app.get('/m9User/search/:position/position
+    add the api link + /m9User/search/:position/position
+    
